@@ -1,5 +1,5 @@
-#ifndef __DEQUEUE_H__
-#define __DEQUEUE_H__
+#ifndef __DEQUE_H__
+#define __DEQUE_H__
 
 #define TRUE 1
 #define FALSE 0

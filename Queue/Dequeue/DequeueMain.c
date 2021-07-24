@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Dequeue.h"
+#include "Deque.h"
 
 int main() {
     Deque deq;
