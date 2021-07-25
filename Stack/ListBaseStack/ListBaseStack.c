@@ -19,7 +19,7 @@ void SPush(Stack * pstack, Data data) {
     pstack->head = newNode;
 }
 
-Data Spop(Stack * pstack) {
+Data SPop(Stack * pstack) {
     if (pstack->head == NULL) {
         printf("Stack Memory Error!\n");
         exit(-1);

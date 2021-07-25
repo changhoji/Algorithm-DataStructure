@@ -12,7 +12,7 @@ int main() {
     SPush(&stack, 5);
 
     while(!SIsEmpty(&stack)) {
-        printf("%d ", Spop(&stack));
+        printf("%d ", SPop(&stack));
     }
 
     return 0;
