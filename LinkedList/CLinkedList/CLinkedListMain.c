@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 #include "CLinkedList.h"
 
@@ -45,3 +46,4 @@ int main() {
 
     return 0;
 }
+*/
